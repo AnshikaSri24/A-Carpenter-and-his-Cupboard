@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PITest
+namespace Test
 {
     class Program
     {
