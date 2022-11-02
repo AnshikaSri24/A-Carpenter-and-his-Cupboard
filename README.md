@@ -21,7 +21,8 @@ numerical key (integer) of the next item to be worked on by the carpenter
 
 **Input Value Ranges**
 
-  ```0 < cabinet size < 2^10
+  ```
+    0 < cabinet size < 2^10
     0 < N < 2^6
     0 < K < 2^32
     0 < numerical key < 2^32
