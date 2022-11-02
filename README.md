@@ -14,17 +14,17 @@ Please help the carpenter optimize storage of these items as described above by 
 
 **Input**
 
-First line: specification of the sizes of the cabinets On order of nearest to furthest away) represented as an array of space-separated integers (e.g. “2 5 4 3”. Number of integers == number of cabinets (N).
-Second line: number of lines (K) of input to follow.
-Next K lines:
+* First line: specification of the sizes of the cabinets On order of nearest to furthest away) represented as an array of space-separated integers (e.g. “2 5 4 3”. Number of integers == number of cabinets (N).
+* Second line: number of lines (K) of input to follow.
+* Next K lines:
 numerical key (integer) of the next item to be worked on by the carpenter
 
 **Input Value Ranges**
 
-`0 < cabinet size < 2^10
-0 < N < 2^6
-0 < K < 2^32
-0 < numerical key < 2^32`
+`  0 < cabinet size < 2^10
+  0 < N < 2^6
+  0 < K < 2^32
+  0 < numerical key < 2^32`
 
 **Output** The output of the your program should be one of the following:
 
